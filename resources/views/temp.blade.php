@@ -16,7 +16,7 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav justify-content-center m-auto">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="{{ route('home') }}">Home</a>
+                <a class="nav-link active" aria-current="page" href="{{ route('homephp') }}">Home</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="{{ route('signin') }}">Sign In</a>
